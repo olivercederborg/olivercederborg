@@ -2,6 +2,8 @@
 
 I'm a self-taught designer and front-end developer. I am currently studying web development to have an education and freelancing to fund life.
 
+👨‍💻 I primarily work with: TypeScript, React, Next.js, TailwindCSS
+
 #### 🤔 I'm currently learning:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-blue?&style=for-the-badge&logo=React&logoColor=61DAFB) 
 
