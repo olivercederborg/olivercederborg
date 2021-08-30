@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Oliver 👋
+
+I'm a self-taught designer and front-end developer. I am currently studying web development to have an education and freelancing to fund life.
+
+#### 🤔 I'm currently learning:
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-blue?&style=for-the-badge&logo=React&logoColor=61DAFB) 
 
 <!--
 **olivercederborg/olivercederborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
