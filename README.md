@@ -1,4 +1,4 @@
-### Hi, I'm Oliver 👋
+# Hi, I'm Oliver 👋
 
 I'm a self-taught designer and front-end developer. I am currently studying web development to have an education and freelancing to fund life.
 
