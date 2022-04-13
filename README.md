@@ -1,26 +1,9 @@
 # Hi, I'm Oliver 👋
 
-I'm a self-taught designer and front-end developer. I am currently studying web development to have an education and freelancing to fund life.
+I'm a self-taught designer and front-end developer, working as a full-time front-end developer at [Miinto](https://miinto.dk/).
 
-👨‍💻 I primarily work with: TypeScript, React, Next.js, TailwindCSS
+😍 Tech I enjoy: TypeScript, React, Remix, NextJS, TailwindCSS, Vim
 
-#### 🤔 I'm currently actively learning:
+#### 🤔 I'm currently learning:
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-B350B1?style=for-the-badge&logo=Astro&logoColor=white)
-
-<!--
-**olivercederborg/olivercederborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
