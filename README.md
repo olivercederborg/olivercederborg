@@ -9,5 +9,5 @@ I'm a self-taught designer and front-end developer, working as a full-time front
 - Remix.run
 - NextJS 
 - TailwindCSS 
-- Vim
+- Neovim
 
