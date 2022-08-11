@@ -11,8 +11,10 @@
 
 <br>
 
-<p align="center">I'm a self-taught designer and frontend developer, working as a full-time frontend developer at <a href="https://miinto.dk">Miinto</a>.<br/>
-In my free time I enjoy building custom keyboards, ricing my work environment and exploring new things to level up as a developer.</p>
+<p align="center">
+  I'm a self-taught designer and frontend developer, working as a full-time frontend developer at <a href="https://miinto.dk" target="_blank">Miinto</a>.<br/>
+  In my free time I enjoy building custom keyboards, ricing my work environment and exploring new things to level up as a developer.
+</p>
 
 <br>
 
