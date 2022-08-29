@@ -2,8 +2,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://olivercederborg.com">website</a> |
-    <a href="https://dribbble.com/oliver">dribbble</a> |
+    <a href="https://olivercederborg.com">website</a> •
+    <a href="https://dribbble.com/oliver">dribbble</a> •
     <a href="https://www.linkedin.com/in/olivercederborg/">linkedin</a>
   </samp>
 </p>
@@ -23,13 +23,13 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.typescriptlang.org/">TypeScript</a> |
-    <a href="https://remix.run/">Remix.run</a> |
-    <a href="https://nextjs.org/">Next.js</a> |
-    <a href="https://tailwindcss.com/">TailwindCSS</a> |
-    <a href="https://www.prisma.io/">Prisma</a> |
-    <a href="https://reactnative.dev/">React Native</a> |
-    <a href="https://go.dev/">Golang</a> |
+    <a href="https://www.typescriptlang.org/">TypeScript</a> •
+    <a href="https://remix.run/">Remix.run</a> •
+    <a href="https://nextjs.org/">Next.js</a> •
+    <a href="https://tailwindcss.com/">TailwindCSS</a> •
+    <a href="https://www.prisma.io/">Prisma</a> •
+    <a href="https://reactnative.dev/">React Native</a> •
+    <a href="https://go.dev/">Golang</a> •
     <a href="https://neovim.io/">Neovim</a>
   </samp>
 </p>
