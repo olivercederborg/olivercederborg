@@ -23,15 +23,13 @@
 
 <p align="center">
   <samp>
+    <a href="https://neovim.io/">Neovim</a> •
     <a href="https://www.typescriptlang.org/">TypeScript</a> •
-    <a href="https://remix.run/">Remix.run</a> •
     <a href="https://nextjs.org/">Next.js</a> •
     <a href="https://tailwindcss.com/">TailwindCSS</a> •
-    <a href="https://www.prisma.io/">Prisma</a> •
+    <a href="https://www.radix-ui.com/">Radix UI</a> •
+    <a href="https://www.framer.com/motion/">Framer Motion</a> •
     <a href="https://reactnative.dev/">React Native</a> •
-    <a href="https://go.dev/">Golang</a> •
-    <a href="https://neovim.io/">Neovim</a>
+    <a href="https://go.dev/">Golang</a>
   </samp>
 </p>
-
-![](https://hit.yhype.me/github/profile?user_id=47901349)
