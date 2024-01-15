@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  I am a self-taught designer and frontend developer, currently employed as a full-time frontend developer at <a href="https://miinto.dk" target="_blank">Miinto</a>.<br/> 
+  I am a self-taught designer and frontend developer, currently employed as a full-time frontend developer.<br/> 
   Aside from my professional work, I have a passion for building custom keyboards, customizing my work environment, and constantly seeking new opportunities for growth and improvement in my developer skills.
 </p>
 
