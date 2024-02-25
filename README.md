@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  I am a developer with a passion for great design and user experience, currently employed as a full-time frontend developer.<br/> 
+  I am a developer with a passion for great design and user experience, currently employed as a full-stack developer at <a href="https://hifranklin.com">Franklin</a>.<br/> 
   Aside from my professional work, I have a passion for building custom keyboards, customizing my work environment, and constantly seeking new opportunities for growth and improvement in my developer skills.
 </p>
 
